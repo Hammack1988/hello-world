@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Hi Everyone who doubted me!
+
+I am going to rock as a software developer soon!
